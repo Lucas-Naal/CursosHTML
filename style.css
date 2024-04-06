@@ -1,0 +1,26 @@
+#main {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-top: 20px;  
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+footer{
+ background-color: purple;
+ color: #fff;
+ display: flex;
+ justify-content: center;
+}
+
+#aside {
+    background-color: beige;
+}
+
+nav {
+    background-color: chartreuse;
+}
